@@ -51,6 +51,7 @@ C:\GitHub\authentication\Authentication\bin\roslyn\vbc.rsp
 C:\GitHub\authentication\Authentication\bin\roslyn\VBCSCompiler.exe
 C:\GitHub\authentication\Authentication\bin\roslyn\VBCSCompiler.exe.config
 C:\GitHub\authentication\Authentication\bin\Antlr3.Runtime.dll
+C:\GitHub\authentication\Authentication\bin\AutoMapper.dll
 C:\GitHub\authentication\Authentication\bin\EntityFramework.dll
 C:\GitHub\authentication\Authentication\bin\EntityFramework.SqlServer.dll
 C:\GitHub\authentication\Authentication\bin\Microsoft.AspNet.Identity.Core.dll
@@ -69,6 +70,9 @@ C:\GitHub\authentication\Authentication\bin\Microsoft.Owin.Security.Twitter.dll
 C:\GitHub\authentication\Authentication\bin\Microsoft.Web.Infrastructure.dll
 C:\GitHub\authentication\Authentication\bin\Newtonsoft.Json.dll
 C:\GitHub\authentication\Authentication\bin\Owin.dll
+C:\GitHub\authentication\Authentication\bin\PM_BLL.dll
+C:\GitHub\authentication\Authentication\bin\PM_DAL.dll
+C:\GitHub\authentication\Authentication\bin\System.ValueTuple.dll
 C:\GitHub\authentication\Authentication\bin\System.Web.Helpers.dll
 C:\GitHub\authentication\Authentication\bin\System.Web.Mvc.dll
 C:\GitHub\authentication\Authentication\bin\System.Web.Optimization.dll
@@ -77,6 +81,12 @@ C:\GitHub\authentication\Authentication\bin\System.Web.WebPages.Deployment.dll
 C:\GitHub\authentication\Authentication\bin\System.Web.WebPages.dll
 C:\GitHub\authentication\Authentication\bin\System.Web.WebPages.Razor.dll
 C:\GitHub\authentication\Authentication\bin\WebGrease.dll
+C:\GitHub\authentication\Authentication\bin\PM_BLL.pdb
+C:\GitHub\authentication\Authentication\bin\PM_DAL.pdb
+C:\GitHub\authentication\Authentication\bin\PM_DAL.dll.config
+C:\GitHub\authentication\Authentication\bin\AutoMapper.pdb
+C:\GitHub\authentication\Authentication\bin\AutoMapper.xml
+C:\GitHub\authentication\Authentication\bin\System.ValueTuple.xml
 C:\GitHub\authentication\Authentication\bin\System.Web.Helpers.xml
 C:\GitHub\authentication\Authentication\bin\System.Web.Mvc.xml
 C:\GitHub\authentication\Authentication\bin\System.Web.Optimization.xml

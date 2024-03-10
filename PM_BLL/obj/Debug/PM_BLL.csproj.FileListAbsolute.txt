@@ -1,0 +1,17 @@
+C:\GitHub\authentication\PM_BLL\bin\Debug\PM_BLL.dll
+C:\GitHub\authentication\PM_BLL\bin\Debug\PM_BLL.pdb
+C:\GitHub\authentication\PM_BLL\bin\Debug\PM_DAL.dll
+C:\GitHub\authentication\PM_BLL\bin\Debug\EntityFramework.dll
+C:\GitHub\authentication\PM_BLL\bin\Debug\AutoMapper.dll
+C:\GitHub\authentication\PM_BLL\bin\Debug\System.ValueTuple.dll
+C:\GitHub\authentication\PM_BLL\bin\Debug\PM_DAL.pdb
+C:\GitHub\authentication\PM_BLL\bin\Debug\PM_DAL.dll.config
+C:\GitHub\authentication\PM_BLL\bin\Debug\EntityFramework.xml
+C:\GitHub\authentication\PM_BLL\bin\Debug\AutoMapper.pdb
+C:\GitHub\authentication\PM_BLL\bin\Debug\AutoMapper.xml
+C:\GitHub\authentication\PM_BLL\bin\Debug\System.ValueTuple.xml
+C:\GitHub\authentication\PM_BLL\obj\Debug\PM_BLL.csproj.AssemblyReference.cache
+C:\GitHub\authentication\PM_BLL\obj\Debug\PM_BLL.csproj.CoreCompileInputs.cache
+C:\GitHub\authentication\PM_BLL\obj\Debug\PM_BLL.csproj.CopyComplete
+C:\GitHub\authentication\PM_BLL\obj\Debug\PM_BLL.dll
+C:\GitHub\authentication\PM_BLL\obj\Debug\PM_BLL.pdb

@@ -1,0 +1,17 @@
+C:\GitHub\authentication\PM_DAL\bin\Debug\PM_DAL.dll.config
+C:\GitHub\authentication\PM_DAL\bin\Debug\PM_DAL.dll
+C:\GitHub\authentication\PM_DAL\bin\Debug\PM_DAL.pdb
+C:\GitHub\authentication\PM_DAL\bin\Debug\AutoMapper.dll
+C:\GitHub\authentication\PM_DAL\bin\Debug\EntityFramework.dll
+C:\GitHub\authentication\PM_DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHub\authentication\PM_DAL\bin\Debug\System.ValueTuple.dll
+C:\GitHub\authentication\PM_DAL\bin\Debug\AutoMapper.pdb
+C:\GitHub\authentication\PM_DAL\bin\Debug\AutoMapper.xml
+C:\GitHub\authentication\PM_DAL\bin\Debug\EntityFramework.xml
+C:\GitHub\authentication\PM_DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitHub\authentication\PM_DAL\bin\Debug\System.ValueTuple.xml
+C:\GitHub\authentication\PM_DAL\obj\Debug\PM_DAL.csproj.AssemblyReference.cache
+C:\GitHub\authentication\PM_DAL\obj\Debug\PM_DAL.csproj.CoreCompileInputs.cache
+C:\GitHub\authentication\PM_DAL\obj\Debug\PM_DAL.csproj.CopyComplete
+C:\GitHub\authentication\PM_DAL\obj\Debug\PM_DAL.dll
+C:\GitHub\authentication\PM_DAL\obj\Debug\PM_DAL.pdb
