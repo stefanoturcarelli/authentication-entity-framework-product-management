@@ -12,12 +12,14 @@ namespace ProductManagement.Controllers
     public class ProductController : Controller
     {
         // GET: Product
+        [Authorize]
         public ActionResult Index()
         {
             return View();
         }
 
         // This method is called when the user clicks the "See Products" header link
+        [Authorize]
         [HttpGet]
         public JsonResult ReadProductsController()
         {
@@ -31,6 +33,7 @@ namespace ProductManagement.Controllers
         }
 
         // This method is called when the user clicks the "Add Product" button
+        [Authorize]
         [HttpPost]
         public JsonResult CreateProductController(Product productToAdd)
         {
@@ -45,6 +48,7 @@ namespace ProductManagement.Controllers
         }
 
         // This method is called when the user clicks the "Edit Product" button
+        [Authorize]
         [HttpPost]
         public JsonResult UpdateProductController(Product productToEdit)
         {
@@ -54,6 +58,7 @@ namespace ProductManagement.Controllers
         }
 
         // This method is called when the user click the "Edit Product" button
+        [Authorize]
         [HttpGet]
         public JsonResult ReadProductByIdController(int productId)
         {
@@ -67,6 +72,8 @@ namespace ProductManagement.Controllers
             return Json(product, JsonRequestBehavior.AllowGet);
         }
 
+        // This method is called when the user clicks the "Delete Product" button
+        [Authorize]
         [HttpPost]
         public JsonResult DeleteProductController(int productId)
         {

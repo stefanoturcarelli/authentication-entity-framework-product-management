@@ -3,8 +3,77 @@
     ViewBag.Title = "Register";
 }
 
+<style>
+    /* Styling for input elements */
+    input[type="text"],
+    input[type="email"],
+    input[type="password"],
+    textarea {
+        padding: 10px;
+        border-radius: 8px;
+        border: 1px solid #ccc;
+        background-color: #f4f4f4;
+        box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+        transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+        /* Hover state for input elements */
+        input[type="text"]:hover,
+        input[type="email"]:hover,
+        input[type="password"]:hover,
+        textarea:hover {
+            border-color: #aaa;
+        }
+
+        /* Focus state for input elements */
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="password"]:focus,
+        textarea:focus {
+            border-color: #007bff;
+            outline: none;
+            box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+        }
+
+
+    /* Styling for the button */
+    .login-register-button {
+        display: inline-block;
+        padding: 10px 20px;
+        border-radius: 8px;
+        border: none;
+        background-color: #007bff;
+        color: #fff;
+        font-size: 16px;
+        font-weight: bold;
+        text-align: center;
+        text-decoration: none;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        /* Hover state for the button */
+        .login-register-button:hover {
+            background-color: #0056b3;
+        }
+
+        /* Focus state for the button */
+        .login-register-button:focus {
+            outline: none;
+            box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+        }
+
+        /* Disabled state for the button */
+        .login-register-button:disabled {
+            background-color: #ccc;
+            cursor: not-allowed;
+        }
+</style>
+
 <main aria-labelledby="title">
-    <h2 id="title">@ViewBag.Title.</h2>
+    <h2 class="products-page-title" id="title">@ViewBag.Title.</h2>
 
     @using (Html.BeginForm("Register", "Account", FormMethod.Post, new { role = "form" }))
     {
@@ -32,7 +101,7 @@
         </div>
         <div class="row">
             <div class="offset-md-2 col-md-10">
-                <input type="submit" value="Register" class="btn btn-outline-dark" />
+                <input type="submit" value="Register" class="login-register-button btn btn-outline-dark" />
             </div>
         </div>
     }
