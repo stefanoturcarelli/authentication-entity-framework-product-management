@@ -73,6 +73,7 @@ namespace ProductManagement.Controllers
         }
 
         // This method is called when the user clicks the "Delete Product" button
+        // DO NOT INCLUDE CONTROLLER IN THE NAMES OF ACTIONS
         [Authorize]
         [HttpPost]
         public JsonResult DeleteProductController(int productId)
